@@ -1,4 +1,4 @@
-# 📡 Challenge: Data Science - Análisis de fuga en Telecom X
+# 📡 Challenge: Data Science - Análisis de fuga de clientes en Telecom X
 
 ![Status](https://img.shields.io/badge/STATUS-FINALIZADO-green)
 ![Python](https://img.shields.io/badge/Python-3.12-blue.svg)
